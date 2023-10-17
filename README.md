@@ -32,6 +32,13 @@ class Program
 
         // Wi-Fi bağlantısını açma
         adbController.WifiAc();
+
+        // Uçak Modu Aç
+        adbController.UcakModeAc();
+
+        // Uçak Modu Kapat
+        adbController.UcakModeKapa();
+
     }
 }
 ````

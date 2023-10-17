@@ -1,5 +1,7 @@
 ![ADb Command](https://raw.githubusercontent.com/ebubekirbastama/EBS-ADB-slemleri/main/ebsadb.png)
 
+# Nuget Adresi
+ https://www.nuget.org/packages/EbubekirBastama.bastama_mobil_data_islemleri
 # ADB Controller
 
 Bu C# sınıfı, Android Debug Bridge (ADB) kullanarak mobil veri ve Wi-Fi bağlantılarını kontrol etmek için oluşturulmuştur.

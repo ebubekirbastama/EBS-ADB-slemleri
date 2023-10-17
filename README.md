@@ -1,3 +1,5 @@
+![ADb Command](https://raw.githubusercontent.com/ebubekirbastama/EBS-ADB-slemleri/main/ebsadb.png)
+
 # ADB Controller
 
 Bu C# sınıfı, Android Debug Bridge (ADB) kullanarak mobil veri ve Wi-Fi bağlantılarını kontrol etmek için oluşturulmuştur.
